@@ -1,0 +1,5 @@
+Include stdio.ih
+
+def script()
+script sh "/opt/deploy.sh"
+
